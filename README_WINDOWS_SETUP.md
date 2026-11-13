@@ -47,6 +47,8 @@ Connect using the PostgreSQL admin user/password you set during installation (ma
 
 Default login accounts:
 
+> **Demo credentials only.** These accounts come from the seed data for local testing. Change both passwords before using the system with real student data.
+
 ```text
 Head Admin
 Username: admin001

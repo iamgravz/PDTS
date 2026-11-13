@@ -53,6 +53,8 @@ psql -U postgres -d pup_ous_pdts -f migrations/003_email_template_config_singlet
 
 ## Default Login Credentials
 
+> **Demo credentials only.** These accounts come from the seed data for local testing. Change both passwords before using the system with real student data.
+
 | Username   | Password    | Role              |
 |------------|-------------|-------------------|
 | admin001   | pupadmin    | Head Admin        |

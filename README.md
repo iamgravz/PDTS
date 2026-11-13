@@ -40,6 +40,8 @@ http://localhost:3000
 
 ## Default accounts
 
+> **Demo credentials only.** These accounts come from the seed data for local testing. Change both passwords before using the system with real student data.
+
 Passwords are stored as bcrypt hashes in the database — these are the plaintext values to log in with, not what's stored.
 
 Head Admin:
